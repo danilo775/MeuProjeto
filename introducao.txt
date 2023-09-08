@@ -2,3 +2,6 @@
 sendo chamada por uma funçao
 
     2 creando uma branch 'feature-navibar' para fazer uma atualizaçao
+
+
+    testando o merge

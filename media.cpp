@@ -3,7 +3,7 @@
 
 using namespace std;
 
-float calcular_media(float n1, float n2, float n3, int tipo) {
+float calcula_media(float n1, float n2, float n3, int tipo) {
     float m;
     
     if(tipo == 1){ /* Media Aritmética */
@@ -33,10 +33,10 @@ int main(){
     cin>>n2;
     cout<<"Nota 3: ";
     cin>>n3;
-    
+
     cout<<"Ecolha uma media: ";
     cin>>escolha;
-    media = calcular_media(n1, n2, n3, escolha);
+    media = calcula_media(n1, n2, n3, escolha);
     cout << "Media: " << media << endl;
     system("pause");
     return 0;
