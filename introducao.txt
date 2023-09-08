@@ -2,3 +2,6 @@
 sendo chamada por uma funçao
 
     2 creando uma branch 'feature-navibar' para fazer uma atualizaçao
+
+
+    6 Everlan estou fazendo essa alteração para concluir o exercicio 6
