@@ -5,3 +5,6 @@ sendo chamada por uma funçao
 
 
     testando o merge
+    6 Everlan estou fazendo essa alteração para concluir o exercicio 6
+
+    testando o revert 
